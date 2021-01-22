@@ -6,6 +6,12 @@ Husband and wife team specializing in custom corn hole sets. Currently selling l
 ## Description
 This repo holds the code for a mock up of a brand new website for my brother-in-law and his wife's side business.
 
+<!-- Attributes -->
+<!-- Background Image: White Brick: <span>Photo by <a href="https://unsplash.com/@woods?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joe Woods</a> on <a href="https://unsplash.com/s/photos/shiplap-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
+<!-- Background Image: white/gray brick: <span>Photo by <a href="https://unsplash.com/@bernardhermant?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bernard Hermant</a> on <a href="https://unsplash.com/s/photos/shiplap-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
+<!-- Background Image: Grey Wood: <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/shiplap-background?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> -->
+
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
