@@ -15,11 +15,11 @@ function Carousel() {
 
     return (
         <div className="container">
-            <div class="carousel">
-                <a class="carousel-item" href="#one!"><img src={img1} /></a>
-                <a class="carousel-item" href="#two!"><img src={img2} /></a>
-                <a class="carousel-item" href="#three!"><img src={img3} /></a>
-                <a class="carousel-item" href="#four!"><img src={img4} /></a>
+            <div className="carousel">
+                <a className="carousel-item" href="#one!"><img src={img1} /></a>
+                <a className="carousel-item" href="#two!"><img src={img2} /></a>
+                <a className="carousel-item" href="#three!"><img src={img3} /></a>
+                <a className="carousel-item" href="#four!"><img src={img4} /></a>
             </div>
         </div>
     );
