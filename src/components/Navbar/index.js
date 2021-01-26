@@ -15,7 +15,8 @@ function Navbar() {
             <div className="navbar-fixed">
                 <nav className="white" role="navigation">
                     <div className="nav-wrapper container">
-                    <a id="logo-container" className="brand-logo black-text">Cole Custom Creations</a>
+                    <Link to="/" id="logo-container" className="brand-logo black-text">Cole Custom Creations</Link>
+                    {/* eslint-disable-next-line */}
                     <a href="#" data-target="nav-mobile" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                         <ul className="right hide-on-med-and-down">
                             <li><Link to="/" className="black-text">Home</Link></li>
