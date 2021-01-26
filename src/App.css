@@ -13,6 +13,6 @@ footer {
 
 @media only screen and (max-width: 992px) {
   nav .brand-logo {
-    font-size: 22px;
+    font-size: 18px !important;
   }
 }
