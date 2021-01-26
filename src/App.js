@@ -1,5 +1,5 @@
 import './App.css';
-import backgroundImg from "./assets/images/grey-wood.jpg"
+// import backgroundImg from "./assets/images/grey-wood.jpg"
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
