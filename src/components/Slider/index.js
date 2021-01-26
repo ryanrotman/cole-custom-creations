@@ -14,35 +14,35 @@ function Slider() {
     }, []);
 
     return (
-        <div class="container">
-            <div class="slider">
-                <ul class="slides">
+        <div className="container">
+            <div className="slider">
+                <ul className="slides">
                 <li>
-                    <img src={img1} />
-                    {/* <div class="caption center-align">
+                    <img src={img1} alt="image1"/>
+                    {/* <div className="caption center-align">
                     <h3>This is our big Tagline!</h3>
-                    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    <h5 className="light grey-text text-lighten-3">Here's our small slogan.</h5>
                     </div> */}
                 </li>
                 <li>
-                    <img src={img2} />
-                    {/* <div class="caption left-align">
+                    <img src={img2} alt="image2"/>
+                    {/* <div className="caption left-align">
                     <h3>Left Aligned Caption</h3>
-                    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    <h5 className="light grey-text text-lighten-3">Here's our small slogan.</h5>
                     </div> */}
                 </li>
                 <li>
-                    <img src={img3} />
-                    {/* <div class="caption right-align">
+                    <img src={img3} alt="image3"/>
+                    {/* <div className="caption right-align">
                     <h3>Right Aligned Caption</h3>
-                    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    <h5 className="light grey-text text-lighten-3">Here's our small slogan.</h5>
                     </div> */}
                 </li>
                 <li>
-                    <img src={img4} />
-                    {/* <div class="caption center-align">
+                    <img src={img4} alt="image4"/>
+                    {/* <div className="caption center-align">
                     <h3>This is our big Tagline!</h3>
-                    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    <h5 className="light grey-text text-lighten-3">Here's our small slogan.</h5>
                     </div> */}
                 </li>
                 </ul>
