@@ -10,6 +10,7 @@ function Home() {
             <div className="container center-align">
                 <p><h5>Welcome!</h5></p>
                 <p><h5>We are a husband and wife team specializing in custom corn hole sets.</h5></p>
+                <p><h5>More content to be added here describing the story behind Cole Custom Creations and what they offer.</h5></p>
             </div>
             <br />
             {/* <Carousel /> */}
